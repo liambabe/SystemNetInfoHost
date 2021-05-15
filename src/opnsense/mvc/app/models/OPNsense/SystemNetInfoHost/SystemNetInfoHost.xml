@@ -1,0 +1,5 @@
+<model>
+	<mount>//OPNsense/SystemNetInfoHost</mount>
+	<description>OPNsense System display information application</description>
+	<items></items>
+</model>
