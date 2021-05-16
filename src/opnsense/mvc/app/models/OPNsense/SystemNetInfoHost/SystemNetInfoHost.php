@@ -1,5 +1,5 @@
 <?php
-namespace OPNsense\SystemNetInfoHost
+namespace OPNsense\SystemNetInfoHost;
 
 use OPNsense\Base\BaseModel;
 
