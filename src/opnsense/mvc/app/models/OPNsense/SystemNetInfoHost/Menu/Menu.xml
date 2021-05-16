@@ -1,0 +1,5 @@
+<menu>
+	<user order="999">
+		<SystemNetInfoHost VisibleName="System Net Info Host!" url="/ui/systemnetinfohost"/>
+	</user>
+</menu>
