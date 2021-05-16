@@ -1,0 +1,9 @@
+<acl>
+	<page-user-systemnetinfohost>
+		<name>Lobby: System Info!</name>
+		<patterns>
+			<pattern>ui/systemnetinfohost/*</pattern>
+			<pattern>api/systemnetinfohost/*</pattern>
+		</patterns>
+	</page-user-systemnetinfohost>
+</acl>
